@@ -1,6 +1,6 @@
 import '../assets/homepage.css';
 
-function Homepage(){
+function Landingpage(){
     return(
   <>
   <div className="landing-page">
@@ -42,4 +42,4 @@ function Homepage(){
       );
 }
 
-export default Homepage
+export default Landingpage;
